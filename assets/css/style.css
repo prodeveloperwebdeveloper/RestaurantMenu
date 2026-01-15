@@ -204,10 +204,10 @@
     margin-bottom: 5px;
     }
      .container .filter-box .button {
-    padding: 5px 0;
+    text-align: center;
     width: 50%;
      justify-content: center;
-    align-items: center;
+    align-content: center;
     margin-bottom: 5px;
   }
 }
@@ -228,10 +228,10 @@
     margin-bottom: 5px;
   }
    .container .filter-box .button {
-    padding: 5px 0;
+    text-align: center;
     width: 50%;
      justify-content: center;
-    align-items: center;
+    align-content: center;
     margin-bottom: 5px;
   }
 }
@@ -256,10 +256,10 @@
     margin-bottom: 5px;
   }
   .container .filter-box .button {
-    padding: 5px 0;
+    text-align: center;
     width: 50%;
      justify-content: center;
-    align-items: center;
+    align-content: center;
     margin-bottom: 5px;
   }
 }
